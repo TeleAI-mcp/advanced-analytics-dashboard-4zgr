@@ -1,2 +1,3 @@
-# advanced-analytics-dashboard-4zgr
-Automated issue comment bot repository
+# Advanced Analytics Dashboard 4Zgr
+
+Automated issue comment bot repository.
